@@ -1,0 +1,19 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+*.sqlite3
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.swp
+*.log
+*.cache
+*.egg-info/
+*.egg
+media
+static
